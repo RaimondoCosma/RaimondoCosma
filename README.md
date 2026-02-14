@@ -10,7 +10,16 @@
 ### 🌐 Sito da Osteopata
 - Costruito con **Next.js**  
 - Responsive e ottimizzato per SEO  
-- raimondocosma.com 
+- [raimondocosma.com](https://raimondocosma.com)  
+
+### 🏋️ App per Palestre
+- Gestione schede di allenamento e comunicazione con i soci  
+- Realizzata con **React / Node.js / MongoDB**  
+- Interfaccia moderna con Material UI  
+
+### 🏊 Gestionale presenze soci - Sport per Tutti SRL
+- Gestione recuperi in piscina 
+- Frontend **React con Material UI**  
 
 ### 🖌️ Interfacce moderne con MUI
 - Componenti React stilizzati secondo Material Design  
@@ -29,11 +38,12 @@
 ---
 
 ## 📫 Contatti
-- Email: raimondo.cosma@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/raimondo-cosma-15a8ab22b/
+- Email: raimondo.cosma@gmail.com  
+- LinkedIn: [Raimondo Cosma](https://www.linkedin.com/in/raimondo-cosma-15a8ab22b/)
 
 ---
 
 ## 📈 Statistiche GitHub
 
-![Le tue stats GitHub](https://github-readme-stats.vercel.app/api?username=RaimondoCosma&show_icons=true&theme=react)
+![Le mie stats GitHub](https://github-readme-stats.vercel.app/api?username=RaimondoCosma&show_icons=true&theme=react)
+
