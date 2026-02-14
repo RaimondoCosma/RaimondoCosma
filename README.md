@@ -30,7 +30,7 @@
 
 ## 📫 Contatti
 - Email: raimondo.cosma@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/raimondo-cosma-15a8ab22b/)
+- LinkedIn: https://www.linkedin.com/in/raimondo-cosma-15a8ab22b/
 
 ---
 
