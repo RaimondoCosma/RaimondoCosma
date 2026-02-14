@@ -36,4 +36,4 @@
 
 ## 📈 Statistiche GitHub
 
-![Le tue stats GitHub](https://github-readme-stats.vercel.app/api?username=nomeutente&show_icons=true&theme=react)
+![Le tue stats GitHub](https://github-readme-stats.vercel.app/api?username=raimondocosma&show_icons=true&theme=react)
